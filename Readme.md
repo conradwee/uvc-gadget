@@ -13,6 +13,9 @@ Apply enhancement Bhupesh Sharma's patchset
 and Robert Baldyga's patchset  
 [Bugfixes for UVC gadget test application](https://www.spinics.net/lists/linux-usb/msg99220.html)  
 
+<script src="https://gist.github.com/conradwee/6adaed78fdb9c67fbdf1ef6ba4803ed5.js"></script>
+
+
 ## How to use
 
     Usage: ./uvc-gadget [options]
